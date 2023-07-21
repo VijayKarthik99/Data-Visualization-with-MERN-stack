@@ -1,1 +1,1 @@
-# Data-isualization-with-mern-stack
+# Data-visualization-with-MERN-Stack
